@@ -39,3 +39,11 @@ Protein is important for muscle building, but eating more than you need is not g
 
 Mobile technology offers a possible alternative to tackle this problem. In the last three years, overall smartphone usage among Filipinos in the Philippines more than doubled according to a report from statistics portal Statista. Currently, about 30 percent of all Filipinos are smartphone users and that is projected to increase said Medellina 2016. Mobile phones are attractive avenue for delivering health interventions because of the widespread adoption of phones with increasingly powerful technical capabilities, people’s tendency to carry their phones with them everywhere. Context awareness features enabled through sensing and phone-based personal information. Mobile technology provides an opportunity to develop interventions with lower costs, less burden, and a greater reach to extend key components of intensive weight loss treatment into real-world settings. Mobile technology could provide another tool in the armamentarium of healthcare professionals in tackling the barriers to physical activity and promoting healthier lifestyles. (Padmasekara 2014)
 
+REFERENCES
+
+http://www.shape.com/fitness/workouts/it-bad-do-same-workout-every-day
+http://greatist.com/fitness/6-convincing-reasons-start-working-immediately-today
+http://greatist.com/fitness/13-awesome-mental-health-benefits-exercise
+http://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389
+http://www.journalmtm.com/2014/fitness-apps-a-valid-alternative-to-the-gym-a-pilot-study/
+
