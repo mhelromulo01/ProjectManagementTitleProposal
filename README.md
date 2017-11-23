@@ -1,5 +1,6 @@
 # ProjectManagementTitleProposal
 Title Proposal: Workout Routine Using Mobile App
+
 Submitted by: Mhelfren C. Romulo
 
 I. Overview
@@ -27,7 +28,6 @@ Many will use this app because people nowadays are more health conscious. Since 
 
 Review Related Literature
 
-Review of Related Literature
 Brooke Blue 2015, when it comes to working out, most people fall into one of two categories, some love to mix it up while the others are creatures of habit. Studies support the fact that workouts that challenge your body in new ways over time are the most beneficial. According to Sulaver 2013, there are reasons to start working at the gym. First, you will feel awesome after you exercise because it increases feel-good hormones and the study suggested that high intensity exercise modulates the brain in a very similar way to cocaine use. Being stronger, leaner, happier, and more capable can make for a more manageable and easier life.
 
 Working up a sweat can help manage physical and mental stress.  It can increase concentrations of norepinephrine that can moderate the brains response to stress. Physical fitness can boost self-esteem and improve positive self-image. The warm and fuzzy chemicals that are released during and after exercise can help people with anxiety disorders calm down. Hopping on the track or treadmill for some moderate-to-high intensity aerobic exercise can reduce anxiety sensitivity. And we thought intervals were just a good way to burn calories said Breene 2013. According to Mayo Clinic Staff 2016, regular exercise helps prevent or manage a wide range of health problems and concerns, including stroke, metabolic syndrome, diabetes, and depression.
