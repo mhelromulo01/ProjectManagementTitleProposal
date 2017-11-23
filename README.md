@@ -1,1 +1,24 @@
 # ProjectManagementTitleProposal
+
+
+
+Overview
+  Workout is a session of exercise or practice to improve fitness, strenuous test of ability and endurance. It is one part physical exertion and self-discipline. It strengthens the body, relaxes the mind, and toughens the spirit. When you work out regularly, your problems diminish and your confidence grows.
+  
+There are some reasons why people don’t do workouts. One of the reasons is a busy schedule. It can be hard to find time to work out. Another reason is you have tried exercise but you keep quitting, because doing too much too soon at the gym is bound to leave you exhausted and burned out. Another reason is confusion; because beginners are not sure how to get started you may choose random exercises, wondering if you're even getting a decent workout. Soreness is another factor for a beginner but you should be able to function. Some beginners can’t endure their soreness and decide not to continue their workout. Another factor is being impatient to see the changes that they want to attain in their body. It takes 12 weeks to the see major changes but if the beginners didn’t see any changes in the first week they lose their motivation. 
+
+Benefits of workout are to help you sleep better fall and stay asleep more easily, and it increases the amount of time you spend in the deepest stage of sleep. Working out also improves skin and muscle tone, increases flexibility and reduces the risk of many age-related diseases, such as osteoporosis, heart disease and stroke. Workout also improves self-confidence by gaining muscle tone, strength, stamina, and you'll feel better emotionally. It also reduces stress and anxiety by diminishing electrical activity in tense muscles as soon as you finish your workout, which makes you less hyperactive and jittery. Another benefit of workout is that it provides you with the motivation to improve your diet, and proper nutrition reduces stress. There is even evidence that regular exercise can aid in treating clinical depression. The best reason of all to work out regularly is that it reduces your risk of many serious and potentially deadly diseases, such as heart disease, high blood pressure, osteoporosis, diabetes, obesity, high cholesterol, colon cancer and breast cancer. 
+
+A mobile app is a software application developed specifically for use on small wireless computing devices, such as smart phones and tablets. It is frequently serve to provide users with similar services to those accessed on PCs. Whether you like doing bodyweight workouts at home or lifting weight at the gym, Fitness Workout Application will help you get and stay fit.
+ 
+Fitness Workout Application is a gym motivator for beginners. It will guide you through every exercise with timed, step by step audio photo and video instruction complete with motivation you need to crush your fitness goals and it provides routines schedules, it can be used as a personal trainer for gym-goers to guide them in their daily routine, body workout with description, proper execution, number of repetition and time to rest. Another is a proper meal before and after workout, nutrition for those who want to lose weight or to gain muscle. You can also track some Fitness Center in La Union. 
+
+It will be profitable because people nowadays are more health conscious. Since workout is a daily routine, many gym-goers will depend on the program until they reach their desired body built. Since gym-goers are usually buddies, they will share their techniques in body building as well as recommend this app. With that this app will be useful as well as popular to those who are body conscious. 
+
+
+Introduction
+  Workout is a session of exercise or practice to improve fitness, strenuous test of ability and endurance. It is one part physical exertion and self-discipline. It strengthens the body, relaxes the mind, and toughens the spirit. When you work out regularly, your problems diminish and your confidence grows (Brooke 2015). 
+  
+Fitness Workout Application is a gym motivator. It will guide you through every exercise with timed, step by step and photo instruction complete with motivation you need to crush your fitness goals and it provides routines schedules, it can be used as a personal trainer for gym-goers to guide them in their daily routine, body workout with description, proper execution, number of repetition and time to rest. Another is a proper meal before and after workout, nutrition for those who want to lose weight or to gain muscle.
+
+Many will use this app because people nowadays are more health conscious. Since workout is a daily routine, many gym-goers will depend on the program until they reach their desired body built. Since gym-goers are usually buddies, they will share their techniques in body building as well as recommend this app. With that this app will be useful as well as popular to those who are body conscious.
